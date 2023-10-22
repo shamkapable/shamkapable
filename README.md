@@ -1,7 +1,8 @@
-[![MasterHead]
+[![MasterHead](https://github.com/shamkapable/shamkapable/blob/main/Market-Programming-Banner.jpg)]
+
 <h1 align="center">Hi 👋, I'm Shammah Barnabas</h1>
 <h3 align="center">A software engineer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/shamkapable/shamkapable/blob/main/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamkapable&label=Profile%20views&color=0e75b6&style=flat" alt="shamkapable" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shammah_barns" target="blank"><img src="https://img.shields.io/twitter/follow/shammah_barns?logo=twitter&style=for-the-badge" alt="shammah_barns" /></a> </p>
